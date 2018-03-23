@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quizzy app</string>
+    <string name="quiz_header">quizzy</string>
+    <string name="new_game_button">New game</string>
+    <string name="quit_button">Quit</string>
+    <string name="submit_button_text">Submit</string>
+    <string name="your_score_header">Your score</string>
+    <string name="back_to_menu_button_text">Back to menu</string>
+
+    <string name="question_1_question">What sort of animal is Jess, who accompanies the TV character Postman Pat?</string>
+    <string name="question_2_question">In which country would you expect to be greeted with the word \'bonjour\'?</string>
+    <string name="question_2_answer_a">Italy</string>
+    <string name="question_2_answer_b">France</string>
+    <string name="question_2_answer_c">Spain</string>
+    <string name="question_2_answer_d">Wales</string>
+    <string name="question_3_question">Select the capitals of European countries</string>
+    <string name="question_3_answer_a">Warsaw</string>
+    <string name="question_3_answer_b">Ottawa</string>
+    <string name="question_3_answer_c">Tokyo</string>
+    <string name="question_3_answer_d">Budapest</string>
+    <string name="question_4_question">Which computer company was founded in 1976 by the Americans Steve Jobs and Steve Wozniak?</string>
+    <string name="question_4_answer_a">Dell</string>
+    <string name="question_4_answer_b">Apple</string>
+    <string name="question_4_answer_c">Hewlett Packard</string>
+    <string name="question_4_answer_d">Compaq</string>
+</resources>
