@@ -4,8 +4,6 @@
     <string name="new_game_button">New game</string>
     <string name="quit_button">Quit</string>
     <string name="submit_button_text">Submit</string>
-    <string name="your_score_header">Your score</string>
-    <string name="back_to_menu_button_text">Back to menu</string>
 
     <string name="question_1_question">What sort of animal is Jess, who accompanies the TV character Postman Pat?</string>
     <string name="question_2_question">In which country would you expect to be greeted with the word \'bonjour\'?</string>

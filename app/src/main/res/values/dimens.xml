@@ -13,9 +13,4 @@
     <dimen name="edit_text_field_padding">15dp</dimen>
     <dimen name="quiz_section_margin_bottom">24dp</dimen>
     <dimen name="quiz_section_answers_margin_bottom">32dp</dimen>
-    <dimen name="result_header_margin_bottom">16dp</dimen>
-    <dimen name="result_header_text_size">36sp</dimen>
-    <dimen name="result_score_margin_bottom">16dp</dimen>
-    <dimen name="result_score_text_size">48sp</dimen>
-    <dimen name="back_to_menu_button_margin_top">8dp</dimen>
 </resources>

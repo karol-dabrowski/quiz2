@@ -8,6 +8,7 @@ import android.widget.EditText;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -61,12 +62,16 @@ public class MainActivity extends AppCompatActivity {
             }
         }
 
-        setContentView(R.layout.activity_main_result);
-        TextView result = (TextView) findViewById(R.id.score_text_view);
-        result.setText(points + "/4");
-    }
-
-    public void backToMenu(View view) {
         setContentView(R.layout.activity_main);
+        CharSequence toastText;
+
+        if(points <= 2) {
+            toastText = "Your score is " + points + ". Try again!";
+        } else {
+            toastText = "Your score is " + points + ". Great job!";
+        }
+
+        Toast toast = Toast.makeText(this, toastText, Toast.LENGTH_LONG);
+        toast.show();
     }
 }
